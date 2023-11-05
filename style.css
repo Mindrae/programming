@@ -1,0 +1,173 @@
+.body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  background-color: darkblue;
+  margin: 0;
+}
+
+nav {
+  width: 100%;
+  background-color: darkblue;
+  text-align: center;
+}
+
+.nav {
+  display: inline-block;
+}
+
+.nav-button {
+  float: left;
+  list-style: none;
+  padding: 0 30px;
+}
+
+.nav-button a {
+  color: white;
+  text-decoration: none;
+}
+
+.img {
+  overflow: hidden;
+  width: 958px;
+  height: 600px;
+}
+
+.hobby-1,
+.hobby-2,
+.hobby-3 {
+  overflow: hidden;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.game {
+  float: right;
+  width: 479px;
+  height: 300px;
+}
+
+.game-img img {
+  float: left;
+  width: 479px;
+  height: 300px;
+}
+
+.cocktail {
+  float: left;
+  width: 479px;
+  height: 300px;
+}
+
+.cocktail-img img {
+  float: right;
+  width: 479px;
+  height: 300px;
+}
+
+.sports {
+  float: right;
+  width: 479px;
+  height: 300px;
+}
+
+.sports-img img {
+  float: left;
+  width: 479px;
+  height: 300px;
+}
+
+.music {
+  text-align: center;
+  width: 958px;
+  height: 450px;
+  border: 1px solid black;
+}
+
+.history {
+  width: 958px;
+  border: 1px solid black;
+}
+
+.history ul {
+  text-align: center;
+  width: 300px;
+  margin: 0 auto;
+  list-style: none;
+}
+
+.main {
+  border: 1px solid black;
+}
+
+.dream {
+  width: 958px;
+  border: 1px solid black;
+}
+
+.dream-img {
+  width: 479px;
+  float: left;
+}
+
+.mydream {
+  display: table;
+  height: 300px;
+}
+
+.mydream p {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 24px;
+}
+
+.bukkit {
+  border: 1px solid black;
+  text-align: center;
+}
+
+.bukkit h2 {
+  display: inline;
+  border: 3px dotted darkblue;
+  border-radius: 5px;
+}
+
+.blist {
+  overflow: hidden;
+  width: 958px;
+}
+
+.trip {
+  width: 400px;
+  float: left;
+}
+
+.computer {
+  width: 400px;
+  float: right;
+}
+
+.trip img {
+  width: 300px;
+}
+
+.computer img {
+  width: 300px;
+  height: 180px;
+}
+
+.input {
+  text-align: center;
+  border: 1px solid black;
+  background-color: darkblue;
+  color: white;
+}
+
+input {
+  width: 200px;
+}
